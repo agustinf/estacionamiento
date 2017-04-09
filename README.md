@@ -1,8 +1,8 @@
 ### <span id="date"></span>
 # Se Arrienda Estacionamiento en Metro Tobalaba - 3 UF / mes
 
-<img src="http://lared.cl/wp-content/uploads/2016/11/tobalaba.jpg" width="300px"/>
-<img src="https://s14.postimg.org/uhe5logn5/Screen_Shot_2017-04-09_at_9.53.28_AM.png" width="300px"/>
+<img src="http://lared.cl/wp-content/uploads/2016/11/tobalaba.jpg" height="200px"/>
+<img src="https://s14.postimg.org/uhe5logn5/Screen_Shot_2017-04-09_at_9.53.28_AM.png" height="200px"/>
 
 * Con portero eléctrico y guardia.
 * Bajo techo, al nivel de la calle, muy cómodo.
